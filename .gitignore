@@ -1,0 +1,7 @@
+foodstore.api/bin
+foodstore.api/obj
+foodstore.api/wwwroot
+
+foodstore-frontend/node_modules
+foodstore-frontend/.sourcemaps
+foodstore-frontend/www
