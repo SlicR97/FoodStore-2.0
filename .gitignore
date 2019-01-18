@@ -1,6 +1,10 @@
-foodstore.api/bin
-foodstore.api/obj
-foodstore.api/wwwroot
+foodstore.api/foodstore.api.main/bin
+foodstore.api/foodstore.api.main/obj
+
+foodstore.api/foodstore.api.data/bin
+foodstore.api/foodstore.api.data/obj
+
+foodstore.api/.idea
 
 foodstore-frontend/node_modules
 foodstore-frontend/.sourcemaps

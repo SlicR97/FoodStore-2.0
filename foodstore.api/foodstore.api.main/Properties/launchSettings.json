@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:2890",
-      "sslPort": 44374
+      "applicationUrl": "http://localhost:48144",
+      "sslPort": 44381
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "foodstore.api": {
+    "foodstore.api.main": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

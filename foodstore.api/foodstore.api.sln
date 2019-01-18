@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodstore.api.main", "foodstore.api.main\foodstore.api.main.csproj", "{2048CF7E-0F24-45E0-AED0-6791FC2561E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodstore.api.data", "foodstore.api.data\foodstore.api.data.csproj", "{319487D3-8BAA-459A-B7F8-840D90A99247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2048CF7E-0F24-45E0-AED0-6791FC2561E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2048CF7E-0F24-45E0-AED0-6791FC2561E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2048CF7E-0F24-45E0-AED0-6791FC2561E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2048CF7E-0F24-45E0-AED0-6791FC2561E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319487D3-8BAA-459A-B7F8-840D90A99247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319487D3-8BAA-459A-B7F8-840D90A99247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319487D3-8BAA-459A-B7F8-840D90A99247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319487D3-8BAA-459A-B7F8-840D90A99247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
